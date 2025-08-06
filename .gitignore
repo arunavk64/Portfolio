@@ -1,0 +1,21 @@
+# WordPress sensitive files
+wp-config.php
+.htaccess
+
+# Uploads and backups
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+error_log
+
+# Operating system junk
+.DS_Store
+Thumbs.db
+
+# Composer or Node (if used)
+node_modules/
+vendor/
+
+# Git
+.gitignore
