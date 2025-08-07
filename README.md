@@ -1,10 +1,10 @@
-👋 Hi, I'm Aruna, a WordPress Developer.
+👋 Hi, I’m Aruna
 
-🛠️ My Skills : WordPress, Elementor, HTML, CSS, Theme Customization , Responsive Web Design, Hostinger , Domain & Hosting Management.
+👀 I’m interested in WordPress development and front-end web design
 
-📂 Projects I'have done Portfolio Website and Hospital Website using  WordPress and Elementor.
+🌱 I’m currently enhancing my skills in theme customization and website performance optimization
 
-🌐 My website link : https://maroon-lemur-574622.hostingersite.com/ and
-https://darkgreen-fox-133657.hostingersite.com/
+💞️ I’m looking to collaborate on WordPress or front-end projects
 
-📫 How to reach me arunavk642003@gmail.com
+📫 How to reach me: arunavk642003@gmail.com
+
