@@ -1,6 +1,6 @@
 👋 Hi, I'm Aruna, a WordPress Developer.
 
-🛠️ My Skills : WordPress, Elementor, HTML, CSS.
+🛠️ My Skills : WordPress, Elementor, HTML, CSS, Theme Customization , Responsive Web Design, Hostinger , Domain & Hosting Management, SEO Fundamentals.
 
 📂 Projects I'have done Portfolio Website and Hospital Website using  WordPress and Elementor.
 
